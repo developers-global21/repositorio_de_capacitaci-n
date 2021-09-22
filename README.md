@@ -1,1 +1,1 @@
-# repositorio_de_capacitaci-n
+# Repositorio de Capacitación
