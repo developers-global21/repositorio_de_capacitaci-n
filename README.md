@@ -42,7 +42,4 @@ Estructura del repositorio
    * [SESION_5_CAPACITACION_EN_AE.mp4](./videos/SESION_5_CAPACITACION_EN_AE.mp4)
    * [SESION_6_CAPACITACION_EN_AE.mp4](./videos/SESION_6_CAPACITACION_EN_AE.mp4)
    * [SESION_7_CAPACITACION_EN_AE.mp4](./videos/SESION_7_CAPACITACION_EN_AE.mp4)
- * [README.md](./README.md)
- * [directorio.md](./directorio.md)
- * [tree-md.sh](./tree-md.sh)
- * [salida.md](./salida.md)
+
